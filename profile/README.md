@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   <br>
   <a href="https://qwn3.github.io">QUINN</a>
   <br>
