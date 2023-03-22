@@ -1,4 +1,4 @@
-<a align="right"><img src="https://github.com/M00NP0D/m00np0d.github.io/raw/main/m00np0d.png"></a>
+<h2 align="right"><img src="https://github.com/M00NP0D/m00np0d.github.io/raw/main/m00np0d.png"></h2>
 <h1 align="center">
   <br>
   <a href="https://qwn3.github.io">QUINN</a>
